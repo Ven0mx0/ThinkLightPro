@@ -3,7 +3,7 @@ Learning to code is hard — especially when you don’t know how to start.
 
 I’m building **ThinkLightPro** to guide beginners like me through the logic and planning stage of programming.  
 
-I often struggled with **critical thinking, visualising code, and knowing what steps to take** when solving coding problems. I’d get stuck before writing a single line — unsure how to analyse a scenario or plan a program logically — and ended up relying too much on AI.  
+I often struggled with **critical thinking, visualising code, and knowing what steps to take** when solving coding problems. I’d get stuck before writing a single line — unsure how to analyse a scenario or plan a program logically.  
 
 **ThinkLightPro** is my way to fix that problem for myself, and help others who feel the same.  
 It’s an **interactive, step-by-step tool** that helps you plan, think, and understand how to approach programming tasks before touching code.
